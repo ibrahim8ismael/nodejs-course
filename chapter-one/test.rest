@@ -6,3 +6,14 @@ GET  http://localhost:3000/admin
 
 ### TEST POST / WEBSITE / API Data Endpoint
 GET http://localhost:3000/api/data
+
+### TEST POST / WEBSITE / API Data Endpoint
+POST http://localhost:3000/api/data
+Content-Type: application/json
+
+{
+    "name": "John"
+}
+
+### TEST POST / WEBSITE /Delete Req
+DELETE http://localhost:3000/api/data
