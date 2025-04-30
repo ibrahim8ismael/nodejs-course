@@ -1,0 +1,8 @@
+### TEST GET / WEBSITE
+GET http://localhost:3000
+
+### TEST POST / WEBSITE / Admin Endpoint
+GET  http://localhost:3000/admin
+
+### TEST POST / WEBSITE / API Data Endpoint
+GET http://localhost:3000/api/data
