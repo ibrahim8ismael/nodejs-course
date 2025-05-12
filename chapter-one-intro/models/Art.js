@@ -3,7 +3,7 @@ const Schema = mongoose.Schema
 
 const ArtSchema = new Schema({
     title: String,
-    bodyy: String,
+    body: String,
     NumberOfLikes: Number
 })
 
